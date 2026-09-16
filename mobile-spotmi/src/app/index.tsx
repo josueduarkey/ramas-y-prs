@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   code: {
-    textTransform: 'uppercase',
+    textTransform: 'lowercase',
   },
   stepContainer: {
     gap: Spacing.three,
